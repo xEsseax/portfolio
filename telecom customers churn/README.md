@@ -11,8 +11,9 @@
 
 | Файл | Описание |
 | --- | --- |
-| `git status` | jupyter notebook проекта |
+| [Текст ссылки]([https://www.example.com](https://github.com/xEsseax/portfolio/blob/83ed21a4325439910cdf3d052e71a8073ada5ce8/telecom%20customers%20churn/YP_diploma_report.pdf)) | jupyter notebook проекта |
 | `git diff` | Подробный pdf-отчёт, созданный с помощью системы вёрстки LaTeX |
+
 
 В распоряжении четыре датасета:
 - contract_new.csv — информация о договоре;
