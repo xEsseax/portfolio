@@ -8,7 +8,11 @@
 - визуализация: matplotlib, seaborn
 - проверека на мультиколлинеарность: phik
 - пайплайн, кросс-валидация, обучение моделей: библиотеки scikit-learn, CatBoost, LightGBM 
-- 
+
+| Command | Description |
+| --- | --- |
+| `git status` | jupyter notebook проекта |
+| `git diff` | Подробный pdf-отчёт, созданный с помощью системы вёрстки LaTeX |
 
 В распоряжении четыре датасета:
 - contract_new.csv — информация о договоре;
