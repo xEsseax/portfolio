@@ -9,7 +9,7 @@
 - проверека на мультиколлинеарность: phik
 - пайплайн, кросс-валидация, обучение моделей: библиотеки scikit-learn, CatBoost, LightGBM 
 
-| Command | Description |
+| Файл | Описание |
 | --- | --- |
 | `git status` | jupyter notebook проекта |
 | `git diff` | Подробный pdf-отчёт, созданный с помощью системы вёрстки LaTeX |
